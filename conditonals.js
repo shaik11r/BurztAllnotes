@@ -35,3 +35,8 @@ if (weatherConditon === "Cloudy") {
 let x = 10;
 
 x > 10 ? console.log("x is greater than 10") : console.log("x is smaller");
+
+let y = 24;
+
+y > 10 ? console.log(y) : console.log("y is smaller", y);
+
